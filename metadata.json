@@ -1,0 +1,8 @@
+{
+  "name": "BridgeMe",
+  "description": "A global intergenerational platform connecting generations for skill swapping, cultural exchange, and mutual support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
